@@ -4,7 +4,12 @@ p {
 body{
     background-color: #cccccc;
     
+
 }
 em{
     color: royalblue;
+}
+
+.banner{
+    width:100%;
 }
